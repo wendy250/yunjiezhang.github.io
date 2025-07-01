@@ -5,18 +5,18 @@
 }
 
 :root {
-            --primary: #ffc26e;
-            --secondary: #ffa933;
-            --surface: #fff2f2;
-            --emphasis: #caff45;
-            --text-primary: #333;
-            --text-secondary: #777;
-            --background: #ffa1a1;
-            --link: #ff6b6b;
-            --link-hover: #3c6e91;
-            --border: #ddd;
-            --transition: 0.3s ease;
-            --shadow: 0 4px 15px rgba(255, 105, 180, 0.2);
+    --primary: #ffc26e;
+    --secondary: #ffa933;
+    --surface: #fff2f2;
+    --emphasis: #caff45;
+    --text-primary: #333;
+    --text-secondary: #777;
+    --background: #ffa1a1;
+    --link: #ff6b6b;
+    --link-hover: #3c6e91;
+    --border: #ddd;
+    --transition: 0.3s ease;
+    --shadow: 0 4px 15px rgba(255, 105, 180, 0.2);
 }
 
 :root.dark-theme {
