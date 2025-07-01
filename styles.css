@@ -16,7 +16,6 @@
     --link-hover: #3c6e91;
     --border: #ddd;
     --transition: 0.3s ease;
-    --shadow: 0 4px 15px rgba(255, 105, 180, 0.2);
 }
 
 :root.dark-theme {
