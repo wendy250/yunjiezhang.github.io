@@ -5,13 +5,13 @@
 }
 
 :root {
-    --primary: #5b8db8;
-    --secondary: #a1c4d0;
-    --surface: #fff;
-    --emphasis: #eef3f6;
+    --primary: #ffc26e;
+    --secondary: #ffa933;
+    --surface: #fff2f2;
+    --emphasis: #caff45;
     --text-primary: #333;
     --text-secondary: #777;
-    --background: #f9f9f9;
+    --background: ##ffa1a1;
     --link: var(--primary);
     --link-hover: #3c6e91;
     --border: #ddd;
